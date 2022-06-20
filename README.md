@@ -1,4 +1,4 @@
-#JSNotes Live JavaScript and Markdown editor
+# JSNotes Live JavaScript and Markdown editor
 
 ![image](https://user-images.githubusercontent.com/94398533/144505145-28bcf9f8-bff6-43e8-bc4e-17d6149696f4.png)
 
